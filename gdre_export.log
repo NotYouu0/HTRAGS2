@@ -1,0 +1,94 @@
+GDRE Tools v1.00-beta.3
+Windows 10.0.26100, AMD Radeon Graphics, opengl3
+Opening file: C:/Users/Xande/Downloads/HTRAGS2.exe
+Multiple passing candidates for bytecode version 13:
+3.5.0-stable (a7aad78), 3.2.0-stable (5565f55)
+Choosing only one that matches engine version: 3.5.0-stable (a7aad78).
+Verified 476 files, no errors detected!
+Extracted 476 files, no errors detected!
+Exporting resources in parallel...
+WARNING: Conversion for Resource of type PackedScene and format 3.x PackedScene not implemented
+   at: ImportExporter::report_unsupported_resource (modules\gdsdecomp\utility\import_exporter.cpp:839)
+Saved project config project.godot.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     50
+Failed scripts:                         0
+Imported resources for export session:  196
+Successfully converted:                 162
+Lossy:                                  3
+Rewrote metadata:                       0
+Non-importable conversions:             0
+Not converted:                          34
+Failed conversions:                     0
+-------------
+
+
+The following files were converted from an import that was stored lossy.
+You may lose fidelity when re-importing these files upon loading the project.
+res://.import/odenkirk.webp-38f4b5e36a79f94969a274e3a1fb8009.s3tc.stex to res://Textures/UI/odenkirk.webp
+res://.import/peter2012.jpeg-7163a1d95d8b8c510c548ec87a33378b.s3tc.stex to res://Textures/UI/peter2012.jpeg
+res://.import/me irl.jpg-b5c988eb7dc6ca911bc4a3c5e4b7355b.s3tc.stex to res://Textures/me irl.jpg
+------
+
+The following files were not converted because support has not been implemented yet:
+res://.import/pc_HTRAGS2.glb-16e9edca110a012b2add41ecb5c16be3.scn to res://Models/GameBoxes/pc_HTRAGS2.glb
+res://.import/pc_HTRAGSRemastered.glb-abe3d5e4b5f749eb823c635d1d241916.scn to res://Models/GameBoxes/pc_HTRAGSRemastered.glb
+res://.import/pc_HalfLife3.glb-93ac17b8ca87f8e9a73e88c584b0e900.scn to res://Models/GameBoxes/pc_HalfLife3.glb
+res://.import/pc_Morbius.gltf-78ca3754b042ac326b1490c9599ec54a.scn to res://Models/GameBoxes/pc_Morbius.gltf
+res://.import/pc_NaivistTheGame.glb-0c581e273aa1cba3c5f9f34ef2aad89d.scn to res://Models/GameBoxes/pc_NaivistTheGame.glb
+res://.import/pc_UltimateMan4.glb-33b0dfa542ea7742cdde5244e9b5c5e0.scn to res://Models/GameBoxes/pc_UltimateMan4.glb
+res://.import/pc_Weezer.glb-ff95c6e5bd3380d2e4f79c2df09c1ad4.scn to res://Models/GameBoxes/pc_Weezer.glb
+res://.import/ps_AmongMe.glb-ca0d0abf7d4511131dce3ae2b31525be.scn to res://Models/GameBoxes/ps_AmongMe.glb
+res://.import/ps_Balls4D.glb-032fbd6f91b3af5d9c91361670ca7d74.scn to res://Models/GameBoxes/ps_Balls4D.glb
+res://.import/ps_BertGame.glb-688e1ec1b742e67469f614ed421555d9.scn to res://Models/GameBoxes/ps_BertGame.glb
+res://.import/ps_BiggieCheese.glb-77b4232e91e3a4d5b034710354ec5b57.scn to res://Models/GameBoxes/ps_BiggieCheese.glb
+res://.import/ps_Bobux.glb-dbb33d1abab5e015ffd970d7334e97d0.scn to res://Models/GameBoxes/ps_Bobux.glb
+res://.import/ps_GilfHunter.glb-e6a772953982b477c9c0e71cbecf6ac8.scn to res://Models/GameBoxes/ps_GilfHunter.glb
+res://.import/ps_HTRTUSA.glb-6dd80f4d95fc84361b923e961eb348c8.scn to res://Models/GameBoxes/ps_HTRTUSA.glb
+res://.import/ps_Minions2.glb-a2eeaf2b0f6e2265a5035b30ddb524a5.scn to res://Models/GameBoxes/ps_Minions2.glb
+res://.import/ps_TF3.glb-392ac1e93fa36e043aba1666d12b7da9.scn to res://Models/GameBoxes/ps_TF3.glb
+res://.import/soy_DunkeyKong.glb-f0273489be13aa9cc5b01172136991a3.scn to res://Models/GameBoxes/soy_DunkeyKong.glb
+res://.import/soy_HDTF.glb-721c456422830e2118d09f65c19d3f8e.scn to res://Models/GameBoxes/soy_HDTF.glb
+res://.import/soy_SexMan3.glb-6e157235d74fc8ed0b2b3cf7652282f8.scn to res://Models/GameBoxes/soy_SexMan3.glb
+res://.import/xb_BeersOfWar.glb-d2a0de8a5dfe2b2f1364db04c6800ca5.scn to res://Models/GameBoxes/xb_BeersOfWar.glb
+res://.import/xb_Gaylo.glb-0dea5624b7b214f9dd3c7355afc9cc34.scn to res://Models/GameBoxes/xb_Gaylo.glb
+res://.import/xb_HTRTUSFR.glb-d7e6745e75fb6f47d0a5fb8946937480.scn to res://Models/GameBoxes/xb_HTRTUSFR.glb
+res://.import/xb_ImFuckingConfused2.glb-0cc1f2d021be6a81f1408f09554c8eb6.scn to res://Models/GameBoxes/xb_ImFuckingConfused2.glb
+res://.import/xb_Karlson.glb-2e10cd1f6073abbab41fd25fa79973d0.scn to res://Models/GameBoxes/xb_Karlson.glb
+res://.import/GodlyGamesSign.glb-98b8d0795e5a617cbae8633c815f95c8.scn to res://Models/GodlyGamesSign.glb
+res://.import/Keyboard.glb-beccc17f656f48913d950491797d55b9.scn to res://Models/Keyboard.glb
+res://.import/Microwave.glb-e813f7eefde0e2a6f436a368e804f5fb.scn to res://Models/Microwave.glb
+res://.import/PCTower.glb-5088c5749f2a0f2dfdb01958e5e82721.scn to res://Models/PCTower.glb
+res://.import/PeterCube.glb-d41ab77776b4f6dd50b07db3d0ab4502.scn to res://Models/PeterCube.glb
+res://.import/alarm clock.glb-e3e00e9372645b71f0464e209561e6fe.scn to res://Models/alarm clock.glb
+res://.import/car_tire.glb-df6eeed064a265ff8ffcd5bcd85b153d.scn to res://Models/car_tire.glb
+res://.import/ford_focus.glb-b2dc936b0f961d35cd7eaf65dd0957ac.scn to res://Models/ford_focus.glb
+res://.import/ford_mustang.glb-aae12885c7c24708a4fc91a3fc04d0cd.scn to res://Models/ford_mustang.glb
+res://.import/gamer_nrg.glb-de47a39c63d3e51b4f4f5a5405252189.scn to res://Models/gamer_nrg.glb
+
+
+
+---------------------------------IMPORTANT NOTES----------------------------------
+
+
+Unsupported Resources Detected:
+The following resource types were detected in the project that conversion is not implemented for yet.
+See Export Report to see which resources were not exported.
+You will still be able to edit the project in the editor regardless.
+ - Resource Type: PackedScene, Format: 3.x packedscene
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.5.0 to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+
